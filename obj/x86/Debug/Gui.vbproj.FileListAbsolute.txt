@@ -1,0 +1,13 @@
+C:\Users\Coder\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Coder\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Coder\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\bin\Debug\Gui.exe
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\bin\Debug\Gui.pdb
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\bin\Debug\Gui.xml
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\Gui.vbproj.GenerateResource.Cache
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\Gui.exe
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\Gui.xml
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\Gui.pdb
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\Coder\Documents\Visual Studio 2010\Projects\Gui\Gui\obj\x86\Debug\WindowsApplication1.register.resources
